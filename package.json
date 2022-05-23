@@ -1,0 +1,9 @@
+{
+  "name": "docsify-api-template",
+  "version": "1.0.0",
+  "description": "A docsify template for documenting API's",
+  "main": "index.js",
+  "repository": "git@github.com:hugomota/docsify-api.git",
+  "author": "hugomota <hugo.mota@csgi.com>",
+  "license": "MIT"
+}
